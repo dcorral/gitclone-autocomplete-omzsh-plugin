@@ -7,7 +7,7 @@ This Zsh/Oh My Zsh plugin enhances the `git clone` command by autocompleting Git
 1. **Clone the Plugin**: Clone this repository into your Oh My Zsh custom plugins directory:
 
     ```sh
-    git clone https://github.com/dcorral/gitclone-autocomplete ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/gitclone-autocomplete
+    git clone https://github.com/dcorral/gitclone-autocomplete-omzsh-plugin ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/gitclone-autocomplete
     ```
 
 2. **Update `.zshrc`**: Add `gitclone-autocomplete` to the plugins list in your `.zshrc`:
